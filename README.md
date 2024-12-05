@@ -1,2 +1,2 @@
 # portfolios
-Aqui estão os meus projeto que demonstram as minhas habilidades.
+Aqui está o meu projeto que fiz na Semana do Programador Contratado em 7 meses do Dev em Dobro
